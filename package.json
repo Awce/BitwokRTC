@@ -1,0 +1,8 @@
+{
+  "name": "BitwokRTC",
+  "version": "1.0.0",
+  "description": "Servicio de ejemplo para WebRTC en FileMaker",
+  "author": "Awce <awce5nk@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}
